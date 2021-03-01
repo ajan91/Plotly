@@ -27,13 +27,13 @@
 - Sets the otu_labels as the hover-text values
 - Sets the sample_values as the marker size
 - Sets the otu_ids as the marker colors
-- 
+
 2. The code for the layout in the buildCharts(); function does the following:
 - Creates a title
 - Creates a label for the x-axis
 - The text for a bubble is shown when hovered over
 
-4. When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also be working according to their requirements when a sample is selected from the dropdown menu
+3. When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also be working according to their requirements when a sample is selected from the dropdown menu
 
 
 # Deliverable 3 Requirements
@@ -45,7 +45,7 @@
 - The indicator shows the level for the washing frequency on the gauge.
 - The gauge is added to the dashboard.
 - The gauge fits in the margin of the <div> element.
-        
+
 2. When the webpage loads, the bar and bubble chart are working according to the requirements in Deliverable 1 and 2, respectively, and the gauge chart is working according to the requirements listed for this Deliverable
 
 # Deliverable 4 Requirements

@@ -19,6 +19,9 @@
 - The top 10 sample_values as values
 - The otu_ids as the labels
 
+![](Resources/D1.png)
+
+
 # Deliverable 2 Requirements
 
 1. The code for the trace object in the buildCharts(); function does the following:
@@ -32,8 +35,11 @@
 - Creates a title
 - Creates a label for the x-axis
 - The text for a bubble is shown when hovered over
+![](Resources/D2.png)
 
 3. When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also be working according to their requirements when a sample is selected from the dropdown menu
+
+![](Resources/D2.1.png)
 
 
 # Deliverable 3 Requirements
@@ -46,7 +52,15 @@
 - The gauge is added to the dashboard.
 - The gauge fits in the margin of the <div> element.
 
+![](Resources/D3.png)
+
 2. When the webpage loads, the bar and bubble chart are working according to the requirements in Deliverable 1 and 2, respectively, and the gauge chart is working according to the requirements listed for this Deliverable
+
+----
+![](Resources/D3.1.png)
+
+---- 
+![](Resources/D3.2.png)
 
 # Deliverable 4 Requirements
 1. The webpage has three customizations.
